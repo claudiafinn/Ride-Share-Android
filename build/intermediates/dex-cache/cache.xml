@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/claudiafinn/Desktop/AIT/Android/RideShareV3/app/build/intermediates/pre-dexed/debug/Parse-1.7.1-71f0dc940be936a49fde651929e6e5f6add717a2.jar"
+        jar="/Users/claudiafinn/Desktop/AIT/Android/RideShareV3/app/libs/Parse-1.7.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="87c45f9f66da531a65f065ee32f603c7e6db1528"/>
+    <item
+        dex="/Users/claudiafinn/Desktop/AIT/Android/RideShareV3/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.3-c097dc73651404aae4f8f8c3638c1e029c4b3176.jar"
+        jar="/Users/claudiafinn/Desktop/AIT/Android/RideShareV3/app/libs/bolts-android-1.1.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e61e3dfc57eaa5c97f9e7061db5608fc7d02d39e"/>
+
+</pre-dex-items>
